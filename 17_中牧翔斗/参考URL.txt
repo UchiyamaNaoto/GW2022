@@ -17,3 +17,4 @@ https://3dunity.org/game-create-lesson/card-game/blackjack-card-making/
 
 アプリケーションID
 a6c4bb6f-6dfc-4ffa-8bc1-be7114e1ecf2
+
